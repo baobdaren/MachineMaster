@@ -1,4 +1,4 @@
-# 机械大师（MachineMaster）代码仓库
+# 机械大师（MachineMaster）
 ## 仓库介绍
 * 查看BiliBili演示视频（马上就来😄）。
 * 该仓库包仅包含了工程中的部分代码（不是所有）。  
