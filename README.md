@@ -40,7 +40,8 @@
 * 独轮角色设计。
 
 ## 
-
+## 截图-教程
+![预览图](教程关卡 截图 2023年11月30日.png)
 ## 截图——聚焦零件设计对象
 ![预览图](https://github.com/LYN-lynn/MachineMaster/blob/main/%E7%94%B5%E6%A2%AF%E5%85%B3%E5%8D%A1%E6%88%AA%E5%9B%BE.png)
 ## 截图——可视化编程
