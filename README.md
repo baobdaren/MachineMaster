@@ -1,7 +1,7 @@
 # 机械大师（MachineMaster）
 ## 仓库介绍
 * 次仓库仅为展示代码。
-* 查看BiliBili![演示视频](https://www.bilibili.com/video/BV1DM411Z7QA/?spm_id_from=333.999.0.0&vd_source=8780ba3e96ab9874a60e5e20ebbdce75)。
+* 查看BiliBili[演示视频](https://www.bilibili.com/video/BV1DM411Z7QA/?spm_id_from=333.999.0.0&vd_source=8780ba3e96ab9874a60e5e20ebbdce75)。
 * 部分弃用代码可能尚未及时删除。
 * 该仓库包仅包含了工程中的部分代码（不是所有）。  
 * 仓库未上传编辑器脚本，美术资源，meta文件以及工程内置文件。
